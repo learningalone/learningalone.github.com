@@ -1,2 +1,2 @@
-# learningalone.github.com
+# learningalone.github.io
 Learning alone :v
